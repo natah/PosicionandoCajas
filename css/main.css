@@ -1,0 +1,51 @@
+.container1 {
+background-color: red;
+width: 300px;
+height: 300px;
+
+}
+
+.container2{
+    background-color: rgb(65, 11, 65);
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: -230px;
+    left: 75px;
+
+}
+.container3{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -380px;
+    left: 75px;
+
+}
+
+.container4{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    bottom: 30px;
+    left: 10px;
+
+}
+.container5{
+    background-color: green;
+    width: 153px;
+    height: 153px;
+    position: relative;
+    bottom: 100px;
+    left: 70px;
+}
+.container6{
+    background-color: black;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -325px;
+    left: 2px; 
+}
